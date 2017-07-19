@@ -1,6 +1,4 @@
-# BigDataSparkProject
-
-Text Analytics and Entity Resolution Using Apache Spark
+# Text Analytics and Entity Resolution Using Apache Spark
 
 There is a vast and rapidly increasing quantity of online news content, each source publishing or covering almost the same news - content wise. Since these articles or entities do not share any common attribute but still have an underlying relationship, there is inherently the problem of identifying and linking or grouping different data content of the same real world entity. One such solution to this problem can be resolved using Entity Resolution. 
 
